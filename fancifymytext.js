@@ -15,6 +15,7 @@ function boring(){
 	document.getElementById("textBox").style.fontWeight = "normal";
 	document.getElementById("textBox").style.color = "black";
 	document.getElementById("textBox").style.textDecoration = "initial";
+	document.getElementById("textBox").style.textTransform = "initial";
 	alert("Boring button was pressed!");
 }
 
